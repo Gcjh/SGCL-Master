@@ -14,6 +14,6 @@ This project involves the code and supplementary materials of paper "SGCL: Seman
 # Run
 Running SGCL is followed as:
 
-    python main.py
+    sh run_main.sh
 
-If you want to.
+If you want to run other datasets, please add them in run_main.sh.
